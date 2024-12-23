@@ -1,31 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="83fac01b-8171-4c84-be46-e99f47995a81" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tutorial 9.pdf.url" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab09.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/q01/Factorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/q01/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/q02/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/q02/q02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/q03/fibbonachi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/q03/main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/q04/Account.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/q04/TestAccount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/q05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/q05/GymMember.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/q05/GymMemberClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/q06/Customer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/q06/Room.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/q06/q06.java" afterDir="false" />
-    </list>
+    <list default="true" id="83fac01b-8171-4c84-be46-e99f47995a81" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
