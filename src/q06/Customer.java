@@ -14,16 +14,15 @@ public class Customer {
         } else {
             System.out.println("Room " + room.getRoomNumber() + " is not available");
         }
-        this.bookedRoom = bookedRoom;
     }
 
-    public void displayBookingRoom(){
+    public void displayBookingDetails() {
         System.out.println(customerID);
         System.out.println(name);
         if (bookedRoom == null) {
             System.out.println("No Room is Booked");
         }else {
-            System.out.println("Booked Room : "bookedRoom);
+            System.out.println("Booked Room : " + bookedRoom);
         }
 
     }
