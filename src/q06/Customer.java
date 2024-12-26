@@ -6,9 +6,13 @@ public class Customer {
     String name;
     Room bookedRoom;
 
-    public void bookRoom(Room bookedRoom) {
-        if (bookedRoom.isAvailable){
-
+    public void bookRoom(Room room) {
+        if (room.isAvailable()) {
+            this.bookedRoom = room;
+            room.setAvailable(false);
+            System.out.println(this.name + " has booked room " + room.getRoomNumber());
+        } else {
+            System.out.println("Room " + room.getRoomNumber() + " is not available");
         }
         this.bookedRoom = bookedRoom;
     }
