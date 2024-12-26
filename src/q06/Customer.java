@@ -13,6 +13,17 @@ public class Customer {
         this.bookedRoom = bookedRoom;
     }
 
+    public void displayBookingRoom(){
+        System.out.println(customerID);
+        System.out.println(name);
+        if (bookedRoom == null) {
+            System.out.println("No Room is Booked");
+        }else {
+            System.out.println("Booked Room : "bookedRoom);
+        }
+
+    }
+
 
 
     public Customer(String customerID, String name) {
