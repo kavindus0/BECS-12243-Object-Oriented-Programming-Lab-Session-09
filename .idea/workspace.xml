@@ -4,13 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83fac01b-8171-4c84-be46-e99f47995a81" name="Changes" comment="temp files">
-      <change afterPath="$PROJECT_DIR$/src/q06/main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/q06/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/q06/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/q06/Room.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/q06/Room.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/q06/q06.java" beforeDir="false" />
+    <list default="true" id="83fac01b-8171-4c84-be46-e99f47995a81" name="Changes" comment="xml file">
+      <change beforePath="$PROJECT_DIR$/src/q06/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/q06/main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -153,7 +148,13 @@
     <MESSAGE value="code refactored" />
     <MESSAGE value="pull req." />
     <MESSAGE value="temp files" />
-    <option name="LAST_COMMIT_MESSAGE" value="temp files" />
+    <MESSAGE value="bookRoom Method created" />
+    <MESSAGE value="method sign changed" />
+    <MESSAGE value="XML" />
+    <MESSAGE value="main code" />
+    <MESSAGE value="comment deletedd and getters added" />
+    <MESSAGE value="xml file" />
+    <option name="LAST_COMMIT_MESSAGE" value="xml file" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
