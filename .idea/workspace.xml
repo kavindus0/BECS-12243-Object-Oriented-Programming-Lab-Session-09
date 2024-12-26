@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="83fac01b-8171-4c84-be46-e99f47995a81" name="Changes" comment="xml file">
-      <change beforePath="$PROJECT_DIR$/src/q06/main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/q06/main.java" afterDir="false" />
-    </list>
+    <list default="true" id="83fac01b-8171-4c84-be46-e99f47995a81" name="Changes" comment="xml edited" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -154,7 +152,9 @@
     <MESSAGE value="main code" />
     <MESSAGE value="comment deletedd and getters added" />
     <MESSAGE value="xml file" />
-    <option name="LAST_COMMIT_MESSAGE" value="xml file" />
+    <MESSAGE value="comments deleted" />
+    <MESSAGE value="xml edited" />
+    <option name="LAST_COMMIT_MESSAGE" value="xml edited" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
