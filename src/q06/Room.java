@@ -1,14 +1,5 @@
 package q06;
 
-
-//            + isAvailable():boolean
-//+ getRoomNumber().int
-//    If is Available true
-//            false isAvailable and print " else print
-//    If is Available false
-//            true isAvailable and print "Room is now available" else print "Room is already available"
-//    Display Room Number, Room Type, Price per Night, and Availability
-
 public class Room {
     int roomNumber;
     String roomType;
@@ -28,6 +19,13 @@ public class Room {
         System.out.println( roomType);
     }
 
+    public int getRoomNumber() {
+        return roomNumber;
+    }
+
+    public boolean isAvailable() {
+        return isAvailable;
+    }
 
     public void bookRoom() {
         if (isAvailable){
